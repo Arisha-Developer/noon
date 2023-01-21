@@ -1,0 +1,19 @@
+.main_card {
+    display: flex;
+    margin: 2%;
+}
+.card-div {
+    margin: 0 1%;
+} 
+.img_div {
+    width: 95px;
+}
+.product_img1{
+    width: 209px;
+    margin-left: -8%;
+    padding-left: 35px;
+}
+.product_sell{
+    width: 96%;
+
+}
