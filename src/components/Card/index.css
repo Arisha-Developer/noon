@@ -17,3 +17,92 @@
     width: 96%;
 
 }
+.main_deal1{
+    background-color: aliceblue;
+}
+.main_deal{
+    display: flex;
+}
+.deal_img{
+    width: 104%;
+    margin-left: -8%;
+    padding-left: 35px;
+}
+.noon-card{
+    width: 100%;
+    height: 30vh;
+}
+.electric_img{
+    width: 104%;
+    margin-left: -8%;
+    padding-left: 35px;
+}
+.about{
+    background-color: yellow;
+    border-radius: 15px;
+    justify-content: center;
+width: 28%;
+text-align: center;
+}
+.noon_img{
+width: 100%;
+height: 28vh;
+
+}
+.women_fashion{
+    width: 100%;
+    height: 20vh;
+    margin-top: 2%;
+        
+}
+.fashion_img{
+    width: 89%;
+    margin-left: 6%;
+    margin-bottom: 8%;
+}
+.main_fashion{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(221, 221, 221);
+}
+.baby_stroller{
+    height: 34vh;
+    width: 100%;
+}
+.baby_stroller2{
+    height: 25vh;
+    width: 100%;
+    margin-top: 4%;
+}
+.table_body{
+    margin-left: 2%;
+    padding-left: 20px!important;
+    display: flex;
+    justify-content: center;
+}
+.for_help{
+    float: left;
+}
+.about_help{
+    float: right;
+    
+}
+.shop{
+    margin: 4%;
+}
+.apps{
+    float: right;
+    padding-left: 20px;
+}
+.icons{
+    margin-bottom: -5%;
+    margin-top: -90%;
+    margin-right: -2%;
+    background: yellow;
+    border-radius: 25px;
+    width: 24%;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    height: 5vh;
+}
